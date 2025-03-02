@@ -1,6 +1,4 @@
 ## 🚀Thanks for visiting my GitHub!
-**Hello, I'm Song Jeongyeon, an aspiring back-end developer.😊**
-
 ### 🔭Study
 ![Skill](https://skillicons.dev/icons?i=java,kotlin,spring,mysql&theme=dark) 
 
